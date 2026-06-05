@@ -286,8 +286,14 @@
   .-mt-56 {
     margin-top: calc(var(--spacing) * -56);
   }
+  .-mt-57 {
+    margin-top: calc(var(--spacing) * -57);
+  }
   .-mt-60 {
     margin-top: calc(var(--spacing) * -60);
+  }
+  .-mt-65 {
+    margin-top: calc(var(--spacing) * -65);
   }
   .-mt-66 {
     margin-top: calc(var(--spacing) * -66);
@@ -354,6 +360,9 @@
   }
   .mt-55 {
     margin-top: calc(var(--spacing) * 55);
+  }
+  .mt-57 {
+    margin-top: calc(var(--spacing) * 57);
   }
   .mt-60 {
     margin-top: calc(var(--spacing) * 60);
@@ -574,6 +583,9 @@
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
+  }
+  .bg-amber-50 {
+    background-color: var(--color-amber-50);
   }
   .bg-amber-200 {
     background-color: var(--color-amber-200);
