@@ -252,6 +252,12 @@
   .right-4 {
     right: calc(var(--spacing) * 4);
   }
+  .right-\[-0\] {
+    right: -0;
+  }
+  .right-\[-\] {
+    right: -;
+  }
   .right-\[0\] {
     right: 0;
   }
